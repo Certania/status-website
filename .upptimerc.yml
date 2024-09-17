@@ -1,31 +1,81 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Certania # Your GitHub organization or username, where this repository lives
+repo: status-website # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: ALPHALYTIK
+    url: https://www.alphalytik.com/
+  - name: DINOX
+    url: https://www.dinox.de/
+  - name: GBD
+    url: https://www.gbd-biotechdia.com/
+  - name: ÖHMI Pharma
+    url: https://www.oehmi-analytik.de/leistungen/pharma-und-umweltlabor
+  - name: SOCRAMETRICS
+    url: https://socrametrics.com/
+  - name: SOCRATEC R&D
+    url: https://socratec-pharma.de/
+  - name: SPINESERV
+    url: https://www.spineserv.de/
+    
+  - name: BIOTEC
+    url: https://www.biotec-gmbh.com/
+  - name: BIOTESYS
+    url: https://biotesys.de/
+  - name: ELAB-ANALYTIK
+    url: https://elab-analytik.de/
+  - name: FSI HEALTH & SAFETY​
+    url: https://fsi.de/
+  - name: INSTITUT DR. NUSS
+    url: https://www.institut-nuss.de/
+  - name: LABOSPORT
+    url: https://labosport.com/
+  - name: ÖHMI ANALYTIK
+    url: https://www.oehmi-analytik.de
+  - name: SGI COMPLIANCE​
+    url: https://sgicompliance.com/
+  - name: TRISKELION
+    url: https://www.triskelion.nl/
+  - name: DFGE
+    url: https://dfge.de/
+  - name: NATUREOFFICE
+    url: https://natureoffice.com/
+    
+  - name: CERTURIA
+    url: https://www.certuria.de/
+  - name: IFU CERT
+    url: https://www.ifu-cert.de/  
+  - name: ÖHMI EUROCERT
+    url: https://www.oehmi-cert.de/de/
+ 
+  - name: FIATEC
+    url: https://www.fiatec.com/
+  - name: GWP
+    url: https://gwp.eu/
+  - name: KÖTTER
+    url: https://koetter-consulting.com/
+  - name: MPR
+    url: https://www.mpr-international.com/
+  - name: ÖHMI SERVICE
+    url: https://www.oehmi-service.de/
+  - name: RELIBELL
+    url: https://www.relibell.de/
+  - name: SPC
+    url: https://spc-lab.de/
+  - name: TAZ
+    url: https://tazgmbh.de/
+
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/156069591?s=200&v=4
+  name: CERTANIA Partners Status Board
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /

@@ -3,6 +3,7 @@ owner: Certania # Your GitHub organization or username, where this repository li
 repo: status-website # The name of this repository
 
 sites:
+  ## LIFE SCIENCES
   - name: ALPHALYTIK
     url: https://www.alphalytik.com/
   - name: DINOX
@@ -17,7 +18,7 @@ sites:
     url: https://socratec-pharma.de/
   - name: SPINESERV
     url: https://www.spineserv.de/
-    
+  ## FOOD & ENVIRONMENT
   - name: BIOTEC
     url: https://www.biotec-gmbh.com/
   - name: BIOTESYS
@@ -36,18 +37,19 @@ sites:
     url: https://sgicompliance.com/
   - name: TRISKELION
     url: https://www.triskelion.nl/
+  ## ESG & ANALYTICS
   - name: DFGE
     url: https://dfge.de/
   - name: NATUREOFFICE
     url: https://natureoffice.com/
-    
+  ## CERTIFICATION & VERIFICATION
   - name: CERTURIA
     url: https://www.certuria.de/
   - name: IFU CERT
     url: https://www.ifu-cert.de/  
   - name: ÖHMI EUROCERT
     url: https://www.oehmi-cert.de/de/
- 
+  ## MATERIALS & STRUCTURES
   - name: FIATEC
     url: https://www.fiatec.com/
   - name: GWP
@@ -72,6 +74,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
+  baseUrl: /status-website
   logoUrl: https://avatars.githubusercontent.com/u/156069591?s=200&v=4
   name: CERTANIA Partners Status Board
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

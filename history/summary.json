@@ -450,9 +450,9 @@
     "url": "https://koetter-consulting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/koetter-consulting.com.ico",
     "slug": "k-oe-tter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -461,7 +461,9 @@
     "timeWeek": 2350,
     "timeMonth": 2427,
     "timeYear": 2427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   },
   {
     "name": "MPR",

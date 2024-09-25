@@ -132,19 +132,19 @@
     "url": "https://www.spineserv.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.spineserv.de.ico",
     "slug": "spineserv",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1646,
-    "timeDay": 1852,
-    "timeWeek": 1569,
-    "timeMonth": 1646,
-    "timeYear": 1646,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1617,
+    "timeDay": 1576,
+    "timeWeek": 1536,
+    "timeMonth": 1617,
+    "timeYear": 1617,
     "dailyMinutesDown": {
-      "2024-09-25": 1
+      "2024-09-25": 11
     }
   },
   {
@@ -451,19 +451,19 @@
     "url": "https://koetter-consulting.com/",
     "icon": "https://icons.duckduckgo.com/ip3/koetter-consulting.com.ico",
     "slug": "k-oe-tter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2414,
-    "timeDay": 1400,
-    "timeWeek": 2321,
-    "timeMonth": 2414,
-    "timeYear": 2414,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 2427,
+    "timeDay": 1795,
+    "timeWeek": 2350,
+    "timeMonth": 2427,
+    "timeYear": 2427,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 11
     }
   },
   {

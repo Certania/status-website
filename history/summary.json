@@ -284,18 +284,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
     "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
+    "uptime": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 2003,
     "timeDay": 1840,
     "timeWeek": 2104,
     "timeMonth": 2003,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2024-10-08": 12,
       "2024-10-04": 20,
       "2024-10-02": 19,
       "2024-09-28": 36,
@@ -522,9 +521,9 @@
     "url": "https://www.relibell.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.relibell.de.ico",
     "slug": "relibell",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -533,7 +532,9 @@
     "timeWeek": 358,
     "timeMonth": 437,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "SPC",

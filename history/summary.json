@@ -229,19 +229,19 @@
     "url": "https://www.institut-nuss.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.institut-nuss.de.ico",
     "slug": "institut-dr-nuss",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10882,
-    "timeDay": 8754,
-    "timeWeek": 13074,
-    "timeMonth": 10882,
-    "timeYear": 10882,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 10602,
+    "timeDay": 6319,
+    "timeWeek": 11926,
+    "timeMonth": 10602,
+    "timeYear": 10602,
     "dailyMinutesDown": {
-      "2024-10-08": 1
+      "2024-10-08": 17
     }
   },
   {

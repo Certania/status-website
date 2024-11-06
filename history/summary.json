@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oehmi-analytik.de.ico",
     "slug": "oe-hmi-pharma",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 1406,
     "timeDay": 1080,
     "timeWeek": 1317,
@@ -224,10 +224,10 @@
     "url": "https://elab-analytik.de/",
     "icon": "https://icons.duckduckgo.com/ip3/elab-analytik.de.ico",
     "slug": "elab-analytik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 740,
@@ -235,17 +235,19 @@
     "timeWeek": 729,
     "timeMonth": 715,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 2
+    }
   },
   {
     "name": "FSI HEALTH & SAFETY​",
     "url": "https://fsi.de/",
     "icon": "https://icons.duckduckgo.com/ip3/fsi.de.ico",
     "slug": "fsi-health-and-safety",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1096,
@@ -253,7 +255,9 @@
     "timeWeek": 1052,
     "timeMonth": 1023,
     "timeYear": 1096,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 1
+    }
   },
   {
     "name": "INSTITUT DR. NUSS",
@@ -436,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.certuria.de.ico",
     "slug": "certuria",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 1718,
     "timeDay": 1511,
     "timeWeek": 1588,
@@ -521,9 +525,9 @@
     "url": "https://gwp.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/gwp.eu.ico",
     "slug": "gwp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -532,7 +536,9 @@
     "timeWeek": 1206,
     "timeMonth": 1210,
     "timeYear": 1458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   },
   {
     "name": "KÖTTER",
@@ -540,11 +546,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetter-consulting.com.ico",
     "slug": "k-oe-tter",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 1629,
     "timeDay": 976,
     "timeWeek": 985,

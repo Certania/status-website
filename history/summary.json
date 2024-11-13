@@ -274,7 +274,7 @@
     "time": 7720,
     "timeDay": 6785,
     "timeWeek": 3424,
-    "timeMonth": 5405,
+    "timeMonth": 5182,
     "timeYear": 7720,
     "dailyMinutesDown": {
       "2024-10-08": 17
@@ -294,7 +294,7 @@
     "time": 574,
     "timeDay": 1225,
     "timeWeek": 556,
-    "timeMonth": 572,
+    "timeMonth": 584,
     "timeYear": 574,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 1465,
     "timeDay": 1284,
     "timeWeek": 1270,
-    "timeMonth": 1675,
+    "timeMonth": 1690,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2024-11-11": 25,
@@ -336,7 +336,7 @@
     "time": 1841,
     "timeDay": 2448,
     "timeWeek": 1871,
-    "timeMonth": 1760,
+    "timeMonth": 1755,
     "timeYear": 1841,
     "dailyMinutesDown": {
       "2024-11-12": 16,
@@ -388,7 +388,7 @@
     "time": 858,
     "timeDay": 787,
     "timeWeek": 834,
-    "timeMonth": 828,
+    "timeMonth": 829,
     "timeYear": 858,
     "dailyMinutesDown": {}
   },
@@ -406,7 +406,7 @@
     "time": 1278,
     "timeDay": 981,
     "timeWeek": 1059,
-    "timeMonth": 1292,
+    "timeMonth": 1295,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2024-10-25": 16,
@@ -431,7 +431,7 @@
     "time": 1787,
     "timeDay": 958,
     "timeWeek": 1008,
-    "timeMonth": 996,
+    "timeMonth": 997,
     "timeYear": 1787,
     "dailyMinutesDown": {
       "2024-09-25": 40,
@@ -444,19 +444,19 @@
     "url": "https://www.certuria.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.certuria.de.ico",
     "slug": "certuria",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.80%",
-    "time": 1704,
-    "timeDay": 1052,
-    "timeWeek": 1555,
-    "timeMonth": 1776,
-    "timeYear": 1704,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.78%",
+    "time": 1706,
+    "timeDay": 1319,
+    "timeWeek": 1585,
+    "timeMonth": 1784,
+    "timeYear": 1706,
     "dailyMinutesDown": {
-      "2024-11-13": 1,
+      "2024-11-13": 20,
       "2024-11-11": 25,
       "2024-10-25": 16,
       "2024-10-24": 39,
@@ -479,7 +479,7 @@
     "time": 5581,
     "timeDay": 6783,
     "timeWeek": 7433,
-    "timeMonth": 5611,
+    "timeMonth": 5720,
     "timeYear": 5581,
     "dailyMinutesDown": {}
   },
@@ -497,7 +497,7 @@
     "time": 1698,
     "timeDay": 1330,
     "timeWeek": 1579,
-    "timeMonth": 1604,
+    "timeMonth": 1590,
     "timeYear": 1698,
     "dailyMinutesDown": {
       "2024-11-11": 25,
@@ -524,7 +524,7 @@
     "time": 934,
     "timeDay": 683,
     "timeWeek": 1218,
-    "timeMonth": 954,
+    "timeMonth": 952,
     "timeYear": 934,
     "dailyMinutesDown": {}
   },
@@ -542,7 +542,7 @@
     "time": 1435,
     "timeDay": 1154,
     "timeWeek": 1242,
-    "timeMonth": 1199,
+    "timeMonth": 1206,
     "timeYear": 1435,
     "dailyMinutesDown": {
       "2024-11-06": 19
@@ -562,7 +562,7 @@
     "time": 1567,
     "timeDay": 902,
     "timeWeek": 1003,
-    "timeMonth": 977,
+    "timeMonth": 973,
     "timeYear": 1567,
     "dailyMinutesDown": {
       "2024-10-24": 19,
@@ -588,7 +588,7 @@
     "time": 4038,
     "timeDay": 5852,
     "timeWeek": 5009,
-    "timeMonth": 3968,
+    "timeMonth": 3912,
     "timeYear": 4038,
     "dailyMinutesDown": {}
   },
@@ -606,7 +606,7 @@
     "time": 1762,
     "timeDay": 1965,
     "timeWeek": 1468,
-    "timeMonth": 1840,
+    "timeMonth": 1845,
     "timeYear": 1762,
     "dailyMinutesDown": {
       "2024-11-11": 25,
@@ -632,7 +632,7 @@
     "time": 385,
     "timeDay": 303,
     "timeWeek": 303,
-    "timeMonth": 357,
+    "timeMonth": 356,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2024-10-08": 19
@@ -652,7 +652,7 @@
     "time": 283,
     "timeDay": 216,
     "timeWeek": 190,
-    "timeMonth": 198,
+    "timeMonth": 199,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -670,7 +670,7 @@
     "time": 2088,
     "timeDay": 1897,
     "timeWeek": 1739,
-    "timeMonth": 2374,
+    "timeMonth": 2391,
     "timeYear": 2088,
     "dailyMinutesDown": {
       "2024-10-11": 18,

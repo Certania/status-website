@@ -390,19 +390,19 @@
     "url": "https://www.triskelion.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 789,
-    "timeWeek": 871,
-    "timeMonth": 840,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 860,
+    "timeDay": 980,
+    "timeWeek": 909,
+    "timeMonth": 851,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2024-11-25": 1
+      "2024-11-25": 17
     }
   },
   {

@@ -33,8 +33,12 @@ sites:
     url: https://www.institut-nuss.de/
   - name: LABOSPORT
     url: https://labosport.com/
+  - name: Mediator
+    url: https://www.mediator.as/
   - name: ÖHMI ANALYTIK
     url: https://www.oehmi-analytik.de
+  - name: RAS-SCI
+    url: https://www.supplychainintegrity.eu
   - name: SGI COMPLIANCE​
     url: https://sgicompliance.com/
   - name: TRISKELION
@@ -52,6 +56,8 @@ sites:
   - name: ÖHMI EUROCERT
     url: https://www.oehmi-cert.de/de/
   ## MATERIALS & STRUCTURES
+  - name: CMC Sud
+    url: https://www.cmcsud.com/
   - name: FIATEC
     url: https://www.fiatec.com/
   - name: GWP

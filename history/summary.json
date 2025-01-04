@@ -13,7 +13,7 @@
     "time": 1379,
     "timeDay": 584,
     "timeWeek": 802,
-    "timeMonth": 794,
+    "timeMonth": 797,
     "timeYear": 1379,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 5054,
     "timeDay": 6378,
     "timeWeek": 5501,
-    "timeMonth": 5187,
+    "timeMonth": 5284,
     "timeYear": 5054,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1661,
     "timeDay": 1788,
     "timeWeek": 1997,
-    "timeMonth": 1899,
+    "timeMonth": 1890,
     "timeYear": 1661,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1333,
     "timeDay": 1294,
     "timeWeek": 1378,
-    "timeMonth": 1352,
+    "timeMonth": 1362,
     "timeYear": 1333,
     "dailyMinutesDown": {
       "2024-11-21": 34,
@@ -94,7 +94,7 @@
     "time": 1401,
     "timeDay": 1296,
     "timeWeek": 1469,
-    "timeMonth": 1389,
+    "timeMonth": 1399,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2024-12-16": 27,
@@ -126,7 +126,7 @@
     "time": 915,
     "timeDay": 755,
     "timeWeek": 917,
-    "timeMonth": 913,
+    "timeMonth": 917,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2024-10-25": 18,
@@ -151,7 +151,7 @@
     "time": 1493,
     "timeDay": 1310,
     "timeWeek": 1457,
-    "timeMonth": 1492,
+    "timeMonth": 1498,
     "timeYear": 1493,
     "dailyMinutesDown": {
       "2024-10-25": 18,
@@ -175,7 +175,7 @@
     "time": 1823,
     "timeDay": 1430,
     "timeWeek": 1832,
-    "timeMonth": 2051,
+    "timeMonth": 2066,
     "timeYear": 1823,
     "dailyMinutesDown": {
       "2024-12-09": 19,
@@ -197,7 +197,7 @@
     "time": 2766,
     "timeDay": 1947,
     "timeWeek": 2480,
-    "timeMonth": 2732,
+    "timeMonth": 2722,
     "timeYear": 2766,
     "dailyMinutesDown": {}
   },
@@ -215,7 +215,7 @@
     "time": 2823,
     "timeDay": 2762,
     "timeWeek": 2938,
-    "timeMonth": 2923,
+    "timeMonth": 2934,
     "timeYear": 2823,
     "dailyMinutesDown": {
       "2024-11-17": 16,
@@ -242,7 +242,7 @@
     "time": 775,
     "timeDay": 603,
     "timeWeek": 748,
-    "timeMonth": 757,
+    "timeMonth": 763,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2024-11-06": 20
@@ -262,7 +262,7 @@
     "time": 1080,
     "timeDay": 842,
     "timeWeek": 1084,
-    "timeMonth": 1077,
+    "timeMonth": 1078,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2024-12-12": 17,
@@ -283,7 +283,7 @@
     "time": 5534,
     "timeDay": 3393,
     "timeWeek": 2790,
-    "timeMonth": 2905,
+    "timeMonth": 2896,
     "timeYear": 5534,
     "dailyMinutesDown": {
       "2024-10-08": 17
@@ -303,7 +303,7 @@
     "time": 558,
     "timeDay": 220,
     "timeWeek": 521,
-    "timeMonth": 557,
+    "timeMonth": 568,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -321,7 +321,7 @@
     "time": 1451,
     "timeDay": 1193,
     "timeWeek": 1342,
-    "timeMonth": 1451,
+    "timeMonth": 1459,
     "timeYear": 1451,
     "dailyMinutesDown": {}
   },
@@ -339,7 +339,7 @@
     "time": 1392,
     "timeDay": 1194,
     "timeWeek": 1369,
-    "timeMonth": 1530,
+    "timeMonth": 1546,
     "timeYear": 1392,
     "dailyMinutesDown": {
       "2024-12-09": 17,
@@ -366,7 +366,7 @@
     "time": 565,
     "timeDay": 477,
     "timeWeek": 560,
-    "timeMonth": 565,
+    "timeMonth": 563,
     "timeYear": 565,
     "dailyMinutesDown": {}
   },
@@ -375,18 +375,19 @@
     "url": "https://sgicompliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.07%",
+    "status": "down",
+    "uptime": "98.47%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.06%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "98.44%",
-    "time": 1795,
-    "timeDay": 1629,
-    "timeWeek": 1677,
-    "timeMonth": 1726,
-    "timeYear": 1795,
+    "uptimeYear": "98.47%",
+    "time": 1792,
+    "timeDay": 1298,
+    "timeWeek": 1644,
+    "timeMonth": 1712,
+    "timeYear": 1792,
     "dailyMinutesDown": {
+      "2025-01-04": 1,
       "2025-01-01": 83,
       "2024-12-31": 20,
       "2024-12-30": 37,
@@ -448,7 +449,7 @@
       "2024-09-21": 50,
       "2024-09-20": 31,
       "2024-09-19": 53,
-      "2024-09-18": 61
+      "2024-09-18": 32
     }
   },
   {
@@ -465,7 +466,7 @@
     "time": 834,
     "timeDay": 655,
     "timeWeek": 798,
-    "timeMonth": 799,
+    "timeMonth": 793,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2024-11-25": 17
@@ -485,7 +486,7 @@
     "time": 1273,
     "timeDay": 957,
     "timeWeek": 1234,
-    "timeMonth": 1293,
+    "timeMonth": 1304,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2024-10-25": 16,
@@ -510,7 +511,7 @@
     "time": 2290,
     "timeDay": 853,
     "timeWeek": 4676,
-    "timeMonth": 3901,
+    "timeMonth": 3992,
     "timeYear": 2290,
     "dailyMinutesDown": {
       "2024-12-23": 31,
@@ -525,15 +526,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.certuria.de.ico",
     "slug": "certuria",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1935,
     "timeDay": 1590,
     "timeWeek": 1686,
-    "timeMonth": 1620,
+    "timeMonth": 1626,
     "timeYear": 1935,
     "dailyMinutesDown": {
       "2024-11-26": 23,
@@ -561,7 +562,7 @@
     "time": 5580,
     "timeDay": 6741,
     "timeWeek": 6452,
-    "timeMonth": 5712,
+    "timeMonth": 5841,
     "timeYear": 5580,
     "dailyMinutesDown": {}
   },
@@ -579,7 +580,7 @@
     "time": 1711,
     "timeDay": 1854,
     "timeWeek": 1892,
-    "timeMonth": 1878,
+    "timeMonth": 1879,
     "timeYear": 1711,
     "dailyMinutesDown": {
       "2024-11-15": 70,
@@ -607,7 +608,7 @@
     "time": 2988,
     "timeDay": 2819,
     "timeWeek": 2992,
-    "timeMonth": 2988,
+    "timeMonth": 2996,
     "timeYear": 2988,
     "dailyMinutesDown": {}
   },
@@ -617,15 +618,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fiatec.com.ico",
     "slug": "fiatec",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.91%",
-    "uptimeYear": "96.41%",
+    "uptimeYear": "96.44%",
     "time": 912,
     "timeDay": 904,
     "timeWeek": 995,
-    "timeMonth": 935,
+    "timeMonth": 944,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2024-12-25": 977,
@@ -651,7 +652,7 @@
     "time": 1359,
     "timeDay": 1467,
     "timeWeek": 1382,
-    "timeMonth": 1301,
+    "timeMonth": 1316,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2024-11-06": 19
@@ -671,7 +672,7 @@
     "time": 1374,
     "timeDay": 850,
     "timeWeek": 1052,
-    "timeMonth": 1133,
+    "timeMonth": 1140,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2024-10-24": 19,
@@ -697,7 +698,7 @@
     "time": 4083,
     "timeDay": 2621,
     "timeWeek": 4021,
-    "timeMonth": 4117,
+    "timeMonth": 4211,
     "timeYear": 4083,
     "dailyMinutesDown": {}
   },
@@ -715,7 +716,7 @@
     "time": 1639,
     "timeDay": 1274,
     "timeWeek": 1461,
-    "timeMonth": 1437,
+    "timeMonth": 1442,
     "timeYear": 1639,
     "dailyMinutesDown": {
       "2024-11-15": 70,
@@ -742,7 +743,7 @@
     "time": 371,
     "timeDay": 329,
     "timeWeek": 346,
-    "timeMonth": 365,
+    "timeMonth": 362,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2024-10-08": 19
@@ -762,7 +763,7 @@
     "time": 288,
     "timeDay": 187,
     "timeWeek": 242,
-    "timeMonth": 316,
+    "timeMonth": 312,
     "timeYear": 288,
     "dailyMinutesDown": {}
   },
@@ -772,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.40%",
-    "uptimeYear": "98.87%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "98.88%",
     "time": 1976,
     "timeDay": 1516,
     "timeWeek": 1724,
-    "timeMonth": 1820,
+    "timeMonth": 1835,
     "timeYear": 1976,
     "dailyMinutesDown": {
       "2024-12-27": 92,

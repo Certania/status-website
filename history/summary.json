@@ -382,9 +382,9 @@
     "slug": "sgi-compliance",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "98.76%",
     "time": 1917,
     "timeDay": 1785,
@@ -392,7 +392,6 @@
     "timeMonth": 2447,
     "timeYear": 1917,
     "dailyMinutesDown": {
-      "2025-02-04": 14,
       "2025-02-03": 47,
       "2025-02-02": 23,
       "2025-01-30": 31,
@@ -456,7 +455,8 @@
       "2024-10-09": 16,
       "2024-10-08": 21,
       "2024-10-04": 20,
-      "2024-10-02": 19
+      "2024-10-02": 19,
+      "2024-09-28": 19
     }
   },
   {
@@ -782,9 +782,9 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.06%",
@@ -794,6 +794,7 @@
     "timeMonth": 2172,
     "timeYear": 2023,
     "dailyMinutesDown": {
+      "2025-02-04": 0,
       "2025-02-01": 24,
       "2025-01-23": 26,
       "2025-01-21": 31,

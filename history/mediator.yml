@@ -1,7 +1,7 @@
 url: https://www.mediator.as/
-status: up
-code: 200
-responseTime: 1041
-lastUpdated: 2025-02-09T23:11:59.691Z
+status: down
+code: 503
+responseTime: 660
+lastUpdated: 2025-02-10T07:40:03.158Z
 startTime: 2024-12-04T15:14:15.174Z
 generator: Upptime <https://github.com/upptime/upptime>

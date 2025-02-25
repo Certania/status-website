@@ -183,7 +183,7 @@
     "uptimeYear": "99.96%",
     "time": 1847,
     "timeDay": 1393,
-    "timeWeek": 1682,
+    "timeWeek": 1663,
     "timeMonth": 1892,
     "timeYear": 1847,
     "dailyMinutesDown": {
@@ -198,10 +198,10 @@
     "url": "https://www.biotec-gmbh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biotec-gmbh.com.ico",
     "slug": "biotec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2733,
@@ -209,7 +209,9 @@
     "timeWeek": 2631,
     "timeMonth": 2749,
     "timeYear": 2733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 1
+    }
   },
   {
     "name": "BIOTESYS",
@@ -618,11 +620,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cmcsud.com.ico",
     "slug": "cmc-sud",
     "status": "up",
-    "uptime": "94.03%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.83%",
-    "uptimeYear": "94.03%",
+    "uptimeYear": "94.06%",
     "time": 3282,
     "timeDay": 2902,
     "timeWeek": 3315,
@@ -672,12 +674,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1519,
     "timeDay": 680,
     "timeWeek": 2247,
-    "timeMonth": 1955,
+    "timeMonth": 1958,
     "timeYear": 1519,
     "dailyMinutesDown": {
       "2025-01-25": 20,
@@ -810,7 +812,7 @@
     "time": 2122,
     "timeDay": 1448,
     "timeWeek": 2364,
-    "timeMonth": 2603,
+    "timeMonth": 2382,
     "timeYear": 2122,
     "dailyMinutesDown": {
       "2025-02-21": 185,

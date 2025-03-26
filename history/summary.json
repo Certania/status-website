@@ -24,10 +24,10 @@
     "url": "https://www.alphalytik.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.alphalytik.com.ico",
     "slug": "alphalytik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5188,
@@ -35,7 +35,9 @@
     "timeWeek": 4049,
     "timeMonth": 5093,
     "timeYear": 5188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 1
+    }
   },
   {
     "name": "DINOX",
@@ -841,11 +843,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 2081,
     "timeDay": 1933,
     "timeWeek": 2052,

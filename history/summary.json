@@ -331,11 +331,11 @@
     "url": "https://www.institut-nuss.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.institut-nuss.de.ico",
     "slug": "institut-dr-nuss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 4506,
     "timeDay": 16406,
@@ -343,6 +343,7 @@
     "timeMonth": 3994,
     "timeYear": 4506,
     "dailyMinutesDown": {
+      "2025-04-21": 1,
       "2025-04-20": 19,
       "2025-03-02": 132,
       "2024-10-08": 17

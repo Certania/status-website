@@ -265,7 +265,7 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.30%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.83%",
     "time": 774,
@@ -299,7 +299,7 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.32%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.82%",
     "time": 1083,
@@ -440,17 +440,16 @@
     "slug": "sgi-compliance",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.14%",
     "time": 2130,
-    "timeDay": 6416,
+    "timeDay": 8094,
     "timeWeek": 6642,
     "timeMonth": 3881,
     "timeYear": 2130,
     "dailyMinutesDown": {
-      "2025-04-22": 13,
       "2025-04-21": 26,
       "2025-04-20": 44,
       "2025-04-18": 30,
@@ -519,7 +518,7 @@
       "2024-11-17": 21,
       "2024-11-12": 16,
       "2024-11-07": 66,
-      "2024-11-06": 23
+      "2024-11-06": 41
     }
   },
   {

@@ -839,10 +839,10 @@
     "url": "https://www.relibell.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.relibell.de.ico",
     "slug": "relibell",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 395,
@@ -851,6 +851,7 @@
     "timeMonth": 299,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2025-04-24": 1,
       "2025-01-23": 64,
       "2024-10-08": 19
     }

@@ -441,18 +441,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "99.14%",
     "time": 2351,
     "timeDay": 9388,
     "timeWeek": 9809,
     "timeMonth": 5648,
     "timeYear": 2351,
     "dailyMinutesDown": {
-      "2025-04-27": 13,
       "2025-04-24": 36,
       "2025-04-23": 58,
       "2025-04-21": 26,
@@ -522,7 +521,7 @@
       "2024-11-18": 49,
       "2024-11-17": 21,
       "2024-11-12": 16,
-      "2024-11-07": 35
+      "2024-11-07": 50
     }
   },
   {
@@ -843,9 +842,9 @@
     "url": "https://www.relibell.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.relibell.de.ico",
     "slug": "relibell",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -855,6 +854,7 @@
     "timeMonth": 297,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2025-04-28": 1,
       "2025-04-24": 26,
       "2025-01-23": 64,
       "2024-10-08": 19

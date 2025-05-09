@@ -446,17 +446,16 @@
     "slug": "sgi-compliance",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.15%",
     "time": 2630,
-    "timeDay": 14410,
+    "timeDay": 18031,
     "timeWeek": 7878,
     "timeMonth": 7756,
     "timeYear": 2630,
     "dailyMinutesDown": {
-      "2025-05-08": 14,
       "2025-05-07": 29,
       "2025-05-05": 26,
       "2025-05-04": 32,
@@ -529,7 +528,8 @@
       "2024-11-26": 86,
       "2024-11-23": 50,
       "2024-11-22": 44,
-      "2024-11-20": 26
+      "2024-11-20": 26,
+      "2024-11-18": 18
     }
   },
   {

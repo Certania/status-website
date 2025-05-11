@@ -274,7 +274,7 @@
     "time": 772,
     "timeDay": 706,
     "timeWeek": 728,
-    "timeMonth": 773,
+    "timeMonth": 776,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-05-01": 20,
@@ -309,7 +309,7 @@
     "time": 1083,
     "timeDay": 1175,
     "timeWeek": 1068,
-    "timeMonth": 1093,
+    "timeMonth": 1094,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-05-01": 19,
@@ -608,9 +608,9 @@
     "url": "https://www.certuria.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.certuria.de.ico",
     "slug": "certuria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.77%",
@@ -620,7 +620,7 @@
     "timeMonth": 2576,
     "timeYear": 1913,
     "dailyMinutesDown": {
-      "2025-05-11": 18,
+      "2025-05-11": 19,
       "2025-05-09": 60,
       "2025-05-08": 24,
       "2025-05-05": 84,

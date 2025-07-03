@@ -460,18 +460,19 @@
     "url": "https://sgicompliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "96.61%",
     "uptimeMonth": "95.06%",
     "uptimeYear": "99.19%",
-    "time": 3963,
-    "timeDay": 9991,
-    "timeWeek": 6515,
-    "timeMonth": 8222,
-    "timeYear": 3963,
+    "time": 3960,
+    "timeDay": 7631,
+    "timeWeek": 6316,
+    "timeMonth": 8165,
+    "timeYear": 3960,
     "dailyMinutesDown": {
+      "2025-07-03": 1,
       "2025-07-02": 47,
       "2025-07-01": 15,
       "2025-06-30": 23,
@@ -515,8 +516,7 @@
       "2025-05-19": 71,
       "2025-05-18": 76,
       "2025-05-17": 21,
-      "2025-05-16": 26,
-      "2025-05-15": 31
+      "2025-05-16": 26
     }
   },
   {

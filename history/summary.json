@@ -522,10 +522,10 @@
     "url": "https://www.triskelion.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 798,
@@ -534,6 +534,7 @@
     "timeMonth": 721,
     "timeYear": 798,
     "dailyMinutesDown": {
+      "2025-07-10": 1,
       "2025-07-08": 21,
       "2025-03-25": 18,
       "2024-11-25": 17

@@ -478,11 +478,11 @@
     "url": "https://sgicompliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "65.47%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "67.94%",
+    "uptimeWeek": "87.53%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.15%",
     "time": 4387,
     "timeDay": 15339,
@@ -490,7 +490,7 @@
     "timeMonth": 8768,
     "timeYear": 4387,
     "dailyMinutesDown": {
-      "2025-07-29": 420,
+      "2025-07-29": 422,
       "2025-07-28": 438,
       "2025-07-27": 24,
       "2025-07-26": 127,
@@ -534,8 +534,7 @@
       "2025-06-15": 76,
       "2025-06-14": 24,
       "2025-06-13": 23,
-      "2025-06-12": 17,
-      "2025-06-11": 18
+      "2025-06-12": 17
     }
   },
   {
@@ -935,11 +934,11 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.94%",
-    "uptimeMonth": "94.73%",
+    "uptimeWeek": "78.56%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "98.73%",
     "time": 2092,
     "timeDay": 1564,
@@ -947,7 +946,7 @@
     "timeMonth": 2027,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2025-07-29": 1200,
+      "2025-07-29": 1238,
       "2025-07-28": 905,
       "2025-07-24": 18,
       "2025-07-16": 24,

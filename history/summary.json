@@ -478,19 +478,19 @@
     "url": "https://sgicompliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "64.79%",
-    "uptimeWeek": "86.70%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "86.69%",
     "uptimeMonth": "94.02%",
     "uptimeYear": "99.14%",
     "time": 4420,
-    "timeDay": 15377,
+    "timeDay": 16508,
     "timeWeek": 13693,
     "timeMonth": 8971,
     "timeYear": 4420,
     "dailyMinutesDown": {
-      "2025-07-29": 506,
+      "2025-07-29": 507,
       "2025-07-28": 438,
       "2025-07-27": 24,
       "2025-07-26": 127,
@@ -532,8 +532,7 @@
       "2025-06-18": 450,
       "2025-06-17": 58,
       "2025-06-15": 76,
-      "2025-06-14": 24,
-      "2025-06-13": 23
+      "2025-06-14": 24
     }
   },
   {
@@ -935,7 +934,7 @@
     "slug": "taz",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "11.94%",
+    "uptimeDay": "12.83%",
     "uptimeWeek": "78.40%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "98.72%",

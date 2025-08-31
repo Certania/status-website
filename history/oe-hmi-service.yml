@@ -1,7 +1,7 @@
 url: https://www.oehmi-service.de/
-status: down
-code: 500
-responseTime: 9283
-lastUpdated: 2025-08-31T20:33:46.546Z
+status: up
+code: 200
+responseTime: 1219
+lastUpdated: 2025-08-31T20:44:46.856Z
 startTime: 2024-09-17T15:12:42.825Z
 generator: Upptime <https://github.com/upptime/upptime>

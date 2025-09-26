@@ -758,9 +758,9 @@
     "slug": "cmc-sud",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.27%",
     "time": 3132,
     "timeDay": 2896,
@@ -768,7 +768,6 @@
     "timeMonth": 2924,
     "timeYear": 3132,
     "dailyMinutesDown": {
-      "2025-09-25": 11,
       "2025-09-24": 32,
       "2025-09-03": 25,
       "2025-08-27": 16,
@@ -866,8 +865,7 @@
       "2024-10-15": 27,
       "2024-10-14": 29,
       "2024-10-09": 28,
-      "2024-10-06": 18,
-      "2024-09-26": 18
+      "2024-10-06": 18
     }
   },
   {
@@ -983,7 +981,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.35%",

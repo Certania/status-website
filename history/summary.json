@@ -173,10 +173,10 @@
     "url": "https://socratec-pharma.de/",
     "icon": "https://icons.duckduckgo.com/ip3/socratec-pharma.de.ico",
     "slug": "socratec-r-and-d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1571,
@@ -185,6 +185,7 @@
     "timeMonth": 2137,
     "timeYear": 1575,
     "dailyMinutesDown": {
+      "2025-10-10": 1,
       "2025-10-04": 16,
       "2025-05-15": 20,
       "2025-04-15": 25,
@@ -495,9 +496,9 @@
     "slug": "sgi-compliance",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.08%",
     "time": 4343,
     "timeDay": 1910,
@@ -505,7 +506,6 @@
     "timeMonth": 2250,
     "timeYear": 4506,
     "dailyMinutesDown": {
-      "2025-10-10": 13,
       "2025-10-07": 15,
       "2025-10-06": 18,
       "2025-09-28": 25,
@@ -557,7 +557,8 @@
       "2025-07-16": 17,
       "2025-07-15": 72,
       "2025-07-14": 148,
-      "2025-07-13": 16
+      "2025-07-13": 16,
+      "2025-07-12": 19
     }
   },
   {
@@ -567,7 +568,7 @@
     "slug": "triskelion",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "90.20%",
+    "uptimeDay": "95.47%",
     "uptimeWeek": "97.79%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.94%",

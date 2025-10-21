@@ -75,10 +75,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gbd-biotechdia.com.ico",
     "slug": "gbd",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.34%",
+    "uptime": "99.84%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.86%",
     "time": 1432,
     "timeDay": 3447,
@@ -86,7 +86,7 @@
     "timeMonth": 2061,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2025-10-20": 164,
+      "2025-10-20": 150,
       "2025-10-19": 63,
       "2025-10-06": 62,
       "2025-09-01": 36,
@@ -135,8 +135,7 @@
       "2024-11-28": 19,
       "2024-11-15": 70,
       "2024-11-11": 25,
-      "2024-10-25": 19,
-      "2024-10-21": 19
+      "2024-10-25": 19
     }
   },
   {
@@ -491,7 +490,7 @@
     "time": 4303,
     "timeDay": 3196,
     "timeWeek": 2164,
-    "timeMonth": 2288,
+    "timeMonth": 2307,
     "timeYear": 4549,
     "dailyMinutesDown": {
       "2025-10-19": 18,

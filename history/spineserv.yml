@@ -1,7 +1,7 @@
 url: https://www.spineserv.de/
-status: up
-code: 200
-responseTime: 1417
-lastUpdated: 2025-11-04T23:13:10.475Z
+status: down
+code: 503
+responseTime: 13350
+lastUpdated: 2025-11-05T21:26:23.166Z
 startTime: 2024-09-17T15:11:40.506Z
 generator: Upptime <https://github.com/upptime/upptime>

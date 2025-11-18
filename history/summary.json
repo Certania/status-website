@@ -966,19 +966,19 @@
     "url": "https://spc-lab.de/",
     "icon": "https://icons.duckduckgo.com/ip3/spc-lab.de.ico",
     "slug": "spc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "87.07%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
-    "time": 677,
-    "timeDay": 1374,
-    "timeWeek": 2506,
-    "timeMonth": 2491,
-    "timeYear": 747,
+    "time": 682,
+    "timeDay": 1901,
+    "timeWeek": 2556,
+    "timeMonth": 2505,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-11-18": 186
+      "2025-11-18": 197
     }
   },
   {

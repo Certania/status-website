@@ -92,6 +92,8 @@ sites:
     url: https://tazgmbh.de/
   - name: XACT
     url: https://www.xact.org.uk
+    headers:
+      - "User-Agent: curl/7.9.8 (i686-pc-linux-gnu) libcurl 7.9.8 (OpenSSL 0.9.6b) (ipv6 enabled)"
 
     
 

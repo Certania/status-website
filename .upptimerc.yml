@@ -90,10 +90,10 @@ sites:
     url: https://spc-lab.de/
   - name: TAZ
     url: https://tazgmbh.de/
-  - name: XACT
-    url: https://www.xact.org.uk
-    headers:
-      - "User-Agent: RapidAPI/4.2.8 (Macintosh; OS X/26.1.0) GCDHTTPRequest"
+  #- name: XACT
+  #  url: https://www.xact.org.uk
+  #  headers:
+  #    - "User-Agent: RapidAPI/4.2.8 (Macintosh; OS X/26.1.0) GCDHTTPRequest"
 
     
 

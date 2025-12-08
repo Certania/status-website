@@ -309,10 +309,10 @@
     "url": "https://www.biotec-gmbh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biotec-gmbh.com.ico",
     "slug": "biotec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2593,
@@ -321,7 +321,7 @@
     "timeMonth": 1355,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2025-12-08": 16,
+      "2025-12-08": 17,
       "2025-06-11": 38,
       "2025-05-07": 29,
       "2025-02-25": 47

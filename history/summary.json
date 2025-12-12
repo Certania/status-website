@@ -45,7 +45,7 @@
     "slug": "alphalytik",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "73.64%",
+    "uptimeDay": "81.71%",
     "uptimeWeek": "95.81%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.90%",
@@ -69,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 1417,
     "timeDay": 1719,
     "timeWeek": 1539,
@@ -452,8 +452,7 @@
       "2025-02-26": 25,
       "2025-02-17": 25,
       "2025-02-14": 20,
-      "2025-01-30": 16,
-      "2024-12-12": 17
+      "2025-01-30": 16
     }
   },
   {
@@ -689,9 +688,9 @@
     "slug": "triskelion",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "97.77%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "99.67%",
     "time": 1056,
     "timeDay": 1446,
@@ -699,7 +698,7 @@
     "timeMonth": 1751,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2025-12-11": 23,
+      "2025-12-11": 17,
       "2025-12-10": 109,
       "2025-12-09": 65,
       "2025-12-08": 20,
@@ -1137,12 +1136,12 @@
     "slug": "mpr",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.46%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.93%",
     "time": 3637,
-    "timeDay": 3262,
+    "timeDay": 1610,
     "timeWeek": 3434,
     "timeMonth": 3151,
     "timeYear": 3554,
@@ -1345,8 +1344,7 @@
       "2025-01-07": 30,
       "2024-12-27": 92,
       "2024-12-14": 104,
-      "2024-12-13": 390,
-      "2024-12-12": 511
+      "2024-12-13": 390
     }
   }
 ]

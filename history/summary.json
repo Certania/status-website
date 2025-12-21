@@ -638,7 +638,7 @@
     "timeDay": 2221,
     "timeWeek": 2281,
     "timeMonth": 2344,
-    "timeYear": 4840,
+    "timeYear": 4843,
     "dailyMinutesDown": {
       "2025-12-20": 32,
       "2025-12-18": 89,
@@ -1295,18 +1295,19 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "97.50%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "97.49%",
     "uptimeMonth": "98.12%",
-    "uptimeYear": "98.69%",
-    "time": 2241,
+    "uptimeYear": "98.71%",
+    "time": 2242,
     "timeDay": 2429,
     "timeWeek": 2799,
     "timeMonth": 2389,
     "timeYear": 2273,
     "dailyMinutesDown": {
+      "2025-12-21": 1,
       "2025-12-20": 77,
       "2025-12-16": 22,
       "2025-12-15": 154,
@@ -1395,8 +1396,7 @@
       "2025-01-23": 26,
       "2025-01-21": 31,
       "2025-01-12": 22,
-      "2025-01-07": 30,
-      "2024-12-27": 92
+      "2025-01-07": 30
     }
   }
 ]

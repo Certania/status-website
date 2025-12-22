@@ -1056,11 +1056,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "98.69%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.33%",
     "time": 669,
     "timeDay": 561,
     "timeWeek": 745,
@@ -1097,7 +1097,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.25%",
     "time": 1026,
     "timeDay": 0,
     "timeWeek": 919,
@@ -1110,8 +1110,7 @@
       "2025-06-30": 25,
       "2024-12-25": 977,
       "2024-12-24": 422,
-      "2024-12-23": 926,
-      "2024-12-22": 1440
+      "2024-12-23": 926
     }
   },
   {

@@ -13,7 +13,7 @@
     "time": 938,
     "timeDay": 893,
     "timeWeek": 889,
-    "timeMonth": 896,
+    "timeMonth": 900,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-12-23": 35,
@@ -86,7 +86,7 @@
     "time": 1425,
     "timeDay": 1384,
     "timeWeek": 1552,
-    "timeMonth": 1441,
+    "timeMonth": 1445,
     "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-12-23": 35,
@@ -601,7 +601,7 @@
     "time": 630,
     "timeDay": 648,
     "timeWeek": 732,
-    "timeMonth": 732,
+    "timeMonth": 734,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-12-23": 34,
@@ -646,7 +646,7 @@
     "time": 4494,
     "timeDay": 2233,
     "timeWeek": 2433,
-    "timeMonth": 2302,
+    "timeMonth": 2314,
     "timeYear": 4854,
     "dailyMinutesDown": {
       "2025-12-23": 35,
@@ -731,7 +731,7 @@
     "time": 1102,
     "timeDay": 1495,
     "timeWeek": 1741,
-    "timeMonth": 1765,
+    "timeMonth": 1755,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-12-23": 55,
@@ -984,7 +984,7 @@
     "time": 2940,
     "timeDay": 2315,
     "timeWeek": 2962,
-    "timeMonth": 2544,
+    "timeMonth": 2555,
     "timeYear": 2937,
     "dailyMinutesDown": {
       "2025-12-23": 34,
@@ -1073,7 +1073,7 @@
     "time": 667,
     "timeDay": 586,
     "timeWeek": 648,
-    "timeMonth": 668,
+    "timeMonth": 670,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2025-12-23": 34,
@@ -1107,7 +1107,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.63%",
     "time": 1027,
     "timeDay": 1245,
     "timeWeek": 1027,
@@ -1160,7 +1160,7 @@
     "time": 1007,
     "timeDay": 611,
     "timeWeek": 660,
-    "timeMonth": 690,
+    "timeMonth": 693,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2025-12-23": 34,
@@ -1264,7 +1264,7 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.86%",
     "time": 443,
@@ -1313,18 +1313,19 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "97.32%",
     "uptimeMonth": "97.68%",
-    "uptimeYear": "98.68%",
-    "time": 2246,
-    "timeDay": 3043,
-    "timeWeek": 2554,
-    "timeMonth": 2369,
-    "timeYear": 2277,
+    "uptimeYear": "98.69%",
+    "time": 2283,
+    "timeDay": 14509,
+    "timeWeek": 4175,
+    "timeMonth": 2732,
+    "timeYear": 2319,
     "dailyMinutesDown": {
+      "2025-12-23": 1,
       "2025-12-22": 87,
       "2025-12-21": 105,
       "2025-12-20": 77,
@@ -1412,8 +1413,7 @@
       "2025-02-06": 19,
       "2025-02-04": 21,
       "2025-02-01": 24,
-      "2025-01-23": 26,
-      "2025-01-21": 31
+      "2025-01-23": 26
     }
   }
 ]

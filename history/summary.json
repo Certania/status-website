@@ -729,11 +729,11 @@
     "url": "https://www.triskelion.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "96.60%",
+    "uptimeDay": "92.62%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "99.53%",
     "time": 1125,
     "timeDay": 1524,
@@ -741,7 +741,7 @@
     "timeMonth": 1775,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2025-12-28": 98,
+      "2025-12-28": 88,
       "2025-12-27": 18,
       "2025-12-26": 34,
       "2025-12-25": 43,
@@ -1332,9 +1332,9 @@
     "slug": "taz",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "98.67%",
     "time": 2263,
     "timeDay": 2280,
@@ -1342,7 +1342,6 @@
     "timeMonth": 2714,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2025-12-28": 10,
       "2025-12-26": 82,
       "2025-12-24": 56,
       "2025-12-23": 48,
@@ -1428,7 +1427,8 @@
       "2025-02-19": 98,
       "2025-02-18": 5,
       "2025-02-13": 16,
-      "2025-02-11": 31
+      "2025-02-11": 31,
+      "2025-02-09": 23
     }
   }
 ]

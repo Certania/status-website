@@ -1354,18 +1354,19 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "88.64%",
-    "uptimeWeek": "96.61%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "97.05%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "98.82%",
-    "time": 2306,
+    "time": 2295,
     "timeDay": 2251,
     "timeWeek": 3629,
     "timeMonth": 2947,
     "timeYear": 2371,
     "dailyMinutesDown": {
+      "2026-01-02": 1,
       "2026-01-01": 163,
       "2025-12-31": 39,
       "2025-12-30": 27,
@@ -1448,8 +1449,7 @@
       "2025-03-31": 38,
       "2025-03-17": 27,
       "2025-03-11": 24,
-      "2025-03-09": 21,
-      "2025-02-25": 23
+      "2025-03-09": 21
     }
   }
 ]

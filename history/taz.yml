@@ -1,7 +1,7 @@
 url: https://tazgmbh.de/
-status: up
-code: 200
-responseTime: 3225
-lastUpdated: 2026-01-02T23:15:44.594Z
+status: down
+code: 500
+responseTime: 10222
+lastUpdated: 2026-01-03T03:41:46.860Z
 startTime: 2024-09-17T15:12:48.128Z
 generator: Upptime <https://github.com/upptime/upptime>

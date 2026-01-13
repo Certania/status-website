@@ -209,12 +209,12 @@
     "slug": "groupe-icare",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 3842,
-    "timeDay": 3658,
+    "timeDay": 3667,
     "timeWeek": 3722,
     "timeMonth": 3937,
     "timeYear": 3842,
@@ -697,8 +697,8 @@
     "time": 4522,
     "timeDay": 1146,
     "timeWeek": 2439,
-    "timeMonth": 2321,
-    "timeYear": 4913,
+    "timeMonth": 2339,
+    "timeYear": 4910,
     "dailyMinutesDown": {
       "2026-01-11": 27,
       "2026-01-10": 22,
@@ -781,10 +781,10 @@
     "url": "https://www.triskelion.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "94.65%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "94.64%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.39%",
     "time": 1177,
@@ -793,7 +793,7 @@
     "timeMonth": 1839,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2026-01-13": 33,
+      "2026-01-13": 34,
       "2026-01-12": 25,
       "2026-01-11": 54,
       "2026-01-10": 41,
@@ -854,8 +854,7 @@
       "2025-10-11": 22,
       "2025-10-09": 175,
       "2025-10-07": 48,
-      "2025-09-25": 15,
-      "2025-07-10": 39
+      "2025-09-25": 15
     }
   },
   {
@@ -1453,7 +1452,7 @@
     "time": 2309,
     "timeDay": 2643,
     "timeWeek": 2068,
-    "timeMonth": 3151,
+    "timeMonth": 3150,
     "timeYear": 2398,
     "dailyMinutesDown": {
       "2026-01-12": 49,

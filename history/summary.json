@@ -13,7 +13,7 @@
     "time": 838,
     "timeDay": 617,
     "timeWeek": 834,
-    "timeMonth": 935,
+    "timeMonth": 934,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-01-11": 57,
@@ -96,7 +96,7 @@
     "time": 1482,
     "timeDay": 1211,
     "timeWeek": 1544,
-    "timeMonth": 1552,
+    "timeMonth": 1561,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2026-01-13": 26,
@@ -642,7 +642,7 @@
     "time": 642,
     "timeDay": 688,
     "timeWeek": 827,
-    "timeMonth": 774,
+    "timeMonth": 767,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2026-01-11": 54,
@@ -697,7 +697,7 @@
     "time": 4736,
     "timeDay": 1146,
     "timeWeek": 2439,
-    "timeMonth": 2332,
+    "timeMonth": 2344,
     "timeYear": 4925,
     "dailyMinutesDown": {
       "2026-01-11": 27,
@@ -1071,7 +1071,7 @@
     "time": 2913,
     "timeDay": 2696,
     "timeWeek": 2491,
-    "timeMonth": 2712,
+    "timeMonth": 2728,
     "timeYear": 2907,
     "dailyMinutesDown": {
       "2026-01-13": 56,
@@ -1167,15 +1167,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "98.26%",
     "uptimeWeek": "95.99%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 661,
     "timeDay": 584,
     "timeWeek": 609,
-    "timeMonth": 675,
+    "timeMonth": 676,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-01-13": 25,
@@ -1274,7 +1274,7 @@
     "time": 1015,
     "timeDay": 523,
     "timeWeek": 676,
-    "timeMonth": 663,
+    "timeMonth": 660,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2026-01-11": 53,
@@ -1442,18 +1442,19 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "97.38%",
     "uptimeYear": "98.81%",
-    "time": 2311,
-    "timeDay": 2907,
-    "timeWeek": 2153,
-    "timeMonth": 3178,
-    "timeYear": 2400,
+    "time": 2309,
+    "timeDay": 2116,
+    "timeWeek": 2058,
+    "timeMonth": 3140,
+    "timeYear": 2397,
     "dailyMinutesDown": {
+      "2026-01-13": 1,
       "2026-01-12": 49,
       "2026-01-11": 18,
       "2026-01-10": 67,
@@ -1534,8 +1535,7 @@
       "2025-05-25": 23,
       "2025-05-19": 29,
       "2025-05-02": 27,
-      "2025-04-30": 46,
-      "2025-04-26": 30
+      "2025-04-30": 46
     }
   }
 ]

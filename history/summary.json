@@ -13,7 +13,7 @@
     "time": 838,
     "timeDay": 617,
     "timeWeek": 834,
-    "timeMonth": 965,
+    "timeMonth": 935,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-01-11": 57,
@@ -96,7 +96,7 @@
     "time": 1482,
     "timeDay": 1211,
     "timeWeek": 1544,
-    "timeMonth": 1553,
+    "timeMonth": 1552,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2026-01-13": 26,
@@ -642,7 +642,7 @@
     "time": 642,
     "timeDay": 688,
     "timeWeek": 827,
-    "timeMonth": 773,
+    "timeMonth": 774,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2026-01-11": 54,
@@ -697,7 +697,7 @@
     "time": 4736,
     "timeDay": 1146,
     "timeWeek": 2439,
-    "timeMonth": 2351,
+    "timeMonth": 2332,
     "timeYear": 4925,
     "dailyMinutesDown": {
       "2026-01-11": 27,
@@ -790,7 +790,7 @@
     "time": 1178,
     "timeDay": 1334,
     "timeWeek": 1639,
-    "timeMonth": 1837,
+    "timeMonth": 1823,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2026-01-13": 94,
@@ -1008,12 +1008,12 @@
     "slug": "oe-hmi-eurocert",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 1894,
-    "timeDay": 1836,
+    "timeDay": 1893,
     "timeWeek": 1954,
     "timeMonth": 2017,
     "timeYear": 1953,
@@ -1071,7 +1071,7 @@
     "time": 2913,
     "timeDay": 2670,
     "timeWeek": 2482,
-    "timeMonth": 2715,
+    "timeMonth": 2711,
     "timeYear": 2907,
     "dailyMinutesDown": {
       "2026-01-13": 25,
@@ -1175,7 +1175,7 @@
     "time": 661,
     "timeDay": 584,
     "timeWeek": 609,
-    "timeMonth": 678,
+    "timeMonth": 675,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-01-13": 25,
@@ -1274,7 +1274,7 @@
     "time": 1015,
     "timeDay": 523,
     "timeWeek": 676,
-    "timeMonth": 666,
+    "timeMonth": 663,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2026-01-11": 53,
@@ -1442,11 +1442,11 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "97.38%",
     "uptimeYear": "98.81%",
     "time": 2309,
     "timeDay": 2392,
@@ -1454,6 +1454,7 @@
     "timeMonth": 3174,
     "timeYear": 2398,
     "dailyMinutesDown": {
+      "2026-01-13": 1,
       "2026-01-12": 49,
       "2026-01-11": 18,
       "2026-01-10": 67,
@@ -1534,8 +1535,7 @@
       "2025-05-25": 23,
       "2025-05-19": 29,
       "2025-05-02": 27,
-      "2025-04-30": 46,
-      "2025-04-26": 30
+      "2025-04-30": 46
     }
   }
 ]

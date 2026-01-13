@@ -1,7 +1,7 @@
 url: https://www.clarkebanks.com
-status: up
-code: 200
-responseTime: 895
-lastUpdated: 2026-01-12T23:45:26.088Z
+status: down
+code: 415
+responseTime: 461
+lastUpdated: 2026-01-13T07:50:54.288Z
 startTime: 2025-11-20T13:32:32.597Z
 generator: Upptime <https://github.com/upptime/upptime>

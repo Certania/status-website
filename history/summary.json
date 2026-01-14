@@ -701,7 +701,7 @@
     "timeDay": 4186,
     "timeWeek": 2543,
     "timeMonth": 2418,
-    "timeYear": 4927,
+    "timeYear": 4932,
     "dailyMinutesDown": {
       "2026-01-11": 27,
       "2026-01-10": 22,
@@ -784,18 +784,19 @@
     "url": "https://www.triskelion.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "95.77%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "95.75%",
     "uptimeMonth": "96.70%",
-    "uptimeYear": "99.39%",
-    "time": 1179,
-    "timeDay": 1550,
+    "uptimeYear": "99.40%",
+    "time": 1180,
+    "timeDay": 1423,
     "timeWeek": 1630,
     "timeMonth": 1823,
     "timeYear": 1259,
     "dailyMinutesDown": {
+      "2026-01-14": 2,
       "2026-01-13": 94,
       "2026-01-12": 25,
       "2026-01-11": 54,
@@ -855,8 +856,7 @@
       "2025-10-25": 22,
       "2025-10-12": 18,
       "2025-10-11": 22,
-      "2025-10-09": 175,
-      "2025-10-07": 48
+      "2025-10-09": 175
     }
   },
   {

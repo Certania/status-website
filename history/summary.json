@@ -98,7 +98,7 @@
     "uptimeYear": "98.13%",
     "time": 1480,
     "timeDay": 1291,
-    "timeWeek": 1505,
+    "timeWeek": 1512,
     "timeMonth": 1566,
     "timeYear": 1480,
     "dailyMinutesDown": {
@@ -1090,7 +1090,7 @@
     "uptimeYear": "98.23%",
     "time": 2908,
     "timeDay": 2585,
-    "timeWeek": 2677,
+    "timeWeek": 2673,
     "timeMonth": 2737,
     "timeYear": 2904,
     "dailyMinutesDown": {
@@ -1197,7 +1197,7 @@
     "uptimeYear": "98.21%",
     "time": 659,
     "timeDay": 678,
-    "timeWeek": 607,
+    "timeWeek": 603,
     "timeMonth": 646,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -1473,10 +1473,10 @@
     "url": "https://tazgmbh.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tazgmbh.de.ico",
     "slug": "taz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "79.83%",
-    "uptimeWeek": "94.72%",
+    "uptimeDay": "79.69%",
+    "uptimeWeek": "94.70%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "98.76%",
     "time": 2314,
@@ -1485,7 +1485,7 @@
     "timeMonth": 3162,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2026-01-16": 290,
+      "2026-01-16": 292,
       "2026-01-15": 27,
       "2026-01-14": 38,
       "2026-01-13": 23,
@@ -1566,8 +1566,7 @@
       "2025-06-11": 16,
       "2025-05-28": 19,
       "2025-05-27": 25,
-      "2025-05-25": 23,
-      "2025-05-19": 29
+      "2025-05-25": 23
     }
   }
 ]

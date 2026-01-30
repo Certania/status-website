@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "up",
-    "uptime": "88.52%",
+    "uptime": "88.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.86%",
+    "uptimeWeek": "35.93%",
     "uptimeMonth": "75.51%",
-    "uptimeYear": "88.52%",
+    "uptimeYear": "88.53%",
     "time": 1468,
     "timeDay": 1302,
     "timeWeek": 1613,
@@ -523,8 +523,7 @@
       "2025-03-10": 21,
       "2025-02-26": 25,
       "2025-02-17": 25,
-      "2025-02-14": 20,
-      "2025-01-30": 16
+      "2025-02-14": 20
     }
   },
   {
@@ -569,8 +568,7 @@
       "2025-03-10": 20,
       "2025-02-26": 25,
       "2025-02-17": 25,
-      "2025-02-14": 20,
-      "2025-01-30": 16
+      "2025-02-14": 20
     }
   },
   {
@@ -861,7 +859,7 @@
     "slug": "triskelion",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "86.09%",
+    "uptimeDay": "93.55%",
     "uptimeWeek": "73.79%",
     "uptimeMonth": "90.28%",
     "uptimeYear": "98.93%",

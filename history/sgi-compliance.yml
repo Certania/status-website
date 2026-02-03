@@ -1,7 +1,7 @@
 url: https://sgicompliance.com/
-status: up
-code: 200
-responseTime: 8911
-lastUpdated: 2026-02-03T23:39:59.921Z
+status: down
+code: 401
+responseTime: 503
+lastUpdated: 2026-02-03T23:59:24.851Z
 startTime: 2024-09-17T15:11:58.151Z
 generator: Upptime <https://github.com/upptime/upptime>

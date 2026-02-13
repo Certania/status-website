@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "up",
-    "uptime": "89.95%",
+    "uptime": "89.96%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "94.27%",
     "uptimeMonth": "75.27%",
-    "uptimeYear": "89.95%",
+    "uptimeYear": "89.96%",
     "time": 1435,
     "timeDay": 1304,
     "timeWeek": 1134,
@@ -191,7 +191,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.78%",
     "time": 1765,
     "timeDay": 1655,
     "timeWeek": 1759,
@@ -201,8 +201,7 @@
       "2026-01-28": 19,
       "2025-11-11": 243,
       "2025-10-16": 144,
-      "2025-04-28": 220,
-      "2025-02-13": 634
+      "2025-04-28": 220
     }
   },
   {
@@ -963,18 +962,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dfge.de.ico",
     "slug": "dfge",
     "status": "down",
-    "uptime": "97.94%",
+    "uptime": "97.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.01%",
-    "uptimeYear": "97.13%",
+    "uptimeMonth": "65.74%",
+    "uptimeYear": "97.10%",
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1291,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2026-02-12": 1437,
+      "2026-02-13": 115,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -1183,7 +1183,7 @@
     "uptimeDay": "97.97%",
     "uptimeWeek": "94.28%",
     "uptimeMonth": "93.79%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.92%",
     "time": 2886,
     "timeDay": 3695,
     "timeWeek": 2537,
@@ -1266,8 +1266,7 @@
       "2025-02-17": 532,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {

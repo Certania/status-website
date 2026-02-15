@@ -117,11 +117,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "up",
-    "uptime": "90.05%",
+    "uptime": "90.06%",
     "uptimeDay": "88.83%",
     "uptimeWeek": "93.30%",
     "uptimeMonth": "75.11%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.06%",
     "time": 1425,
     "timeDay": 1122,
     "timeWeek": 1151,
@@ -964,7 +964,7 @@
     "status": "up",
     "uptime": "97.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "21.89%",
+    "uptimeWeek": "23.17%",
     "uptimeMonth": "64.50%",
     "uptimeYear": "97.00%",
     "time": 1219,
@@ -1183,7 +1183,7 @@
     "uptimeDay": "88.94%",
     "uptimeWeek": "93.34%",
     "uptimeMonth": "93.74%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.44%",
     "time": 2880,
     "timeDay": 2280,
     "timeWeek": 2514,
@@ -1265,8 +1265,7 @@
       "2025-07-27": 34,
       "2025-06-11": 56,
       "2025-02-17": 532,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {

@@ -865,10 +865,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
     "status": "down",
-    "uptime": "95.89%",
+    "uptime": "95.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.92%",
+    "uptimeMonth": "37.87%",
     "uptimeYear": "93.74%",
     "time": 4836,
     "timeDay": 0,
@@ -876,7 +876,7 @@
     "timeMonth": 2502,
     "timeYear": 5073,
     "dailyMinutesDown": {
-      "2026-03-27": 6,
+      "2026-03-27": 25,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -974,9 +974,9 @@
     "slug": "triskelion",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "91.03%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "99.02%",
     "time": 1455,
     "timeDay": 1794,
@@ -984,8 +984,7 @@
     "timeMonth": 2014,
     "timeYear": 1575,
     "dailyMinutesDown": {
-      "2026-03-27": 5,
-      "2026-03-26": 80,
+      "2026-03-26": 73,
       "2026-03-25": 50,
       "2026-03-24": 145,
       "2026-03-23": 53,
@@ -1021,7 +1020,8 @@
       "2026-02-20": 292,
       "2026-02-19": 69,
       "2026-02-18": 164,
-      "2026-02-17": 27
+      "2026-02-17": 27,
+      "2026-02-16": 21
     }
   },
   {

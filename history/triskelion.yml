@@ -1,7 +1,7 @@
 url: https://www.triskelion.nl/
-status: up
-code: 200
-responseTime: 1605
-lastUpdated: 2026-04-11T16:19:51.642Z
+status: down
+code: 500
+responseTime: 494
+lastUpdated: 2026-04-11T16:39:03.911Z
 startTime: 2024-09-17T15:12:01.200Z
 generator: Upptime <https://github.com/upptime/upptime>

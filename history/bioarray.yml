@@ -1,7 +1,7 @@
 url: https://bioarray.es/
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2026-04-17T08:31:01.102Z
+status: down
+code: 415
+responseTime: 339
+lastUpdated: 2026-04-17T15:37:15.738Z
 startTime: 2025-11-20T13:31:20.589Z
 generator: Upptime <https://github.com/upptime/upptime>

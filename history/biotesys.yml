@@ -1,7 +1,7 @@
 url: https://biotesys.de/
-status: up
-code: 200
-responseTime: 2308
-lastUpdated: 2026-04-21T23:13:21.712Z
+status: down
+code: 502
+responseTime: 590
+lastUpdated: 2026-04-22T12:08:15.216Z
 startTime: 2024-09-17T15:11:47.295Z
 generator: Upptime <https://github.com/upptime/upptime>

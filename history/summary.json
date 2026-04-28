@@ -241,8 +241,7 @@
     "dailyMinutesDown": {
       "2026-01-28": 19,
       "2025-11-11": 243,
-      "2025-10-16": 144,
-      "2025-04-28": 220
+      "2025-10-16": 144
     }
   },
   {
@@ -662,18 +661,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.institut-nuss.de.ico",
     "slug": "institut-dr-nuss",
     "status": "down",
-    "uptime": "97.50%",
+    "uptime": "97.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.43%",
-    "uptimeYear": "96.02%",
+    "uptimeMonth": "57.31%",
+    "uptimeYear": "96.01%",
     "time": 4387,
     "timeDay": 157,
     "timeWeek": 181,
     "timeMonth": 3540,
     "timeYear": 4538,
     "dailyMinutesDown": {
-      "2026-04-27": 1419,
+      "2026-04-28": 34,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -902,18 +902,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
     "status": "down",
-    "uptime": "90.67%",
+    "uptime": "90.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.98%",
+    "uptimeYear": "84.97%",
     "time": 4901,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5030,
     "dailyMinutesDown": {
-      "2026-04-27": 1419,
+      "2026-04-28": 34,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -1049,7 +1050,7 @@
     "time": 1565,
     "timeDay": 2033,
     "timeWeek": 2020,
-    "timeMonth": 1896,
+    "timeMonth": 1876,
     "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-04-27": 209,
@@ -1315,12 +1316,12 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "91.48%",
-    "uptimeWeek": "89.61%",
+    "uptimeWeek": "89.76%",
     "uptimeMonth": "92.31%",
     "uptimeYear": "99.36%",
     "time": 2817,
     "timeDay": 3203,
-    "timeWeek": 2793,
+    "timeWeek": 2792,
     "timeMonth": 2780,
     "timeYear": 2745,
     "dailyMinutesDown": {
@@ -1708,8 +1709,7 @@
       "2025-08-27": 18,
       "2025-07-25": 120,
       "2025-06-09": 142,
-      "2025-05-08": 15,
-      "2025-04-28": 126
+      "2025-05-08": 15
     }
   },
   {
@@ -1746,7 +1746,7 @@
     "time": 2419,
     "timeDay": 2128,
     "timeWeek": 2069,
-    "timeMonth": 2553,
+    "timeMonth": 2539,
     "timeYear": 2474,
     "dailyMinutesDown": {
       "2026-04-27": 128,

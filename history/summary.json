@@ -174,12 +174,12 @@
     "uptime": "98.60%",
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "97.61%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "98.60%",
     "time": 1171,
     "timeDay": 983,
     "timeWeek": 1096,
-    "timeMonth": 858,
+    "timeMonth": 857,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2026-05-14": 23,
@@ -423,8 +423,7 @@
       "2026-01-03": 19,
       "2025-11-19": 20,
       "2025-11-01": 20,
-      "2025-06-11": 20,
-      "2025-05-15": 20
+      "2025-06-11": 20
     }
   },
   {
@@ -433,18 +432,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/socratec-pharma.de.ico",
     "slug": "socratec-r-and-d",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.56%",
-    "uptimeYear": "97.63%",
+    "uptimeMonth": "73.46%",
+    "uptimeYear": "97.62%",
     "time": 1782,
     "timeDay": 1091,
     "timeWeek": 1352,
     "timeMonth": 1414,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2026-05-14": 1433,
+      "2026-05-15": 37,
+      "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -475,8 +475,7 @@
       "2025-11-04": 38,
       "2025-10-29": 17,
       "2025-10-10": 24,
-      "2025-10-04": 16,
-      "2025-05-15": 20
+      "2025-10-04": 16
     }
   },
   {
@@ -715,7 +714,7 @@
     "uptime": "94.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.04%",
+    "uptimeMonth": "2.93%",
     "uptimeYear": "91.36%",
     "time": 4291,
     "timeDay": 19,
@@ -723,7 +722,8 @@
     "timeMonth": 446,
     "timeYear": 4429,
     "dailyMinutesDown": {
-      "2026-05-14": 1433,
+      "2026-05-15": 37,
+      "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -976,14 +976,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.32%",
+    "uptimeYear": "80.31%",
     "time": 5158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4814,
     "dailyMinutesDown": {
-      "2026-05-14": 1433,
+      "2026-05-15": 38,
+      "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -1311,8 +1312,7 @@
       "2025-06-12": 18,
       "2025-06-08": 46,
       "2025-05-30": 29,
-      "2025-05-27": 25,
-      "2025-05-15": 66
+      "2025-05-27": 25
     }
   },
   {
@@ -1414,17 +1414,17 @@
     "slug": "cmc-sud",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "91.79%",
-    "uptimeMonth": "91.47%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "91.45%",
     "uptimeYear": "99.29%",
     "time": 2898,
     "timeDay": 4327,
     "timeWeek": 4151,
-    "timeMonth": 3275,
+    "timeMonth": 3272,
     "timeYear": 2839,
     "dailyMinutesDown": {
-      "2026-05-14": 122,
+      "2026-05-14": 111,
       "2026-05-13": 104,
       "2026-05-12": 131,
       "2026-05-11": 98,
@@ -1448,7 +1448,7 @@
       "2026-04-22": 130,
       "2026-04-21": 151,
       "2026-04-20": 271,
-      "2026-04-19": 114
+      "2026-04-19": 132
     }
   },
   {
@@ -1484,18 +1484,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
     "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "98.61%",
+    "uptime": "98.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "98.58%",
     "time": 668,
     "timeDay": 962,
     "timeWeek": 732,
-    "timeMonth": 720,
+    "timeMonth": 721,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-05-14": 11,
       "2026-05-10": 17,
       "2026-05-03": 18,
       "2026-05-02": 20,
@@ -1543,7 +1542,8 @@
       "2026-02-22": 42,
       "2026-02-21": 79,
       "2026-02-20": 1,
-      "2026-02-19": 61
+      "2026-02-19": 134,
+      "2026-02-18": 9
     }
   },
   {
@@ -1577,9 +1577,9 @@
     "slug": "gwp",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.91%",
     "time": 2126,
     "timeDay": 2592,
@@ -1587,7 +1587,6 @@
     "timeMonth": 2486,
     "timeYear": 2247,
     "dailyMinutesDown": {
-      "2026-05-14": 11,
       "2026-05-10": 17,
       "2026-05-03": 18,
       "2026-05-02": 20,
@@ -1606,18 +1605,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetter-consulting.com.ico",
     "slug": "k-oe-tter",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.77%",
+    "uptime": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "98.76%",
     "time": 875,
     "timeDay": 630,
     "timeWeek": 622,
     "timeMonth": 729,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2026-05-14": 11,
       "2026-05-10": 16,
       "2026-05-06": 31,
       "2026-05-03": 23,
@@ -1687,7 +1685,8 @@
       "2026-01-17": 15,
       "2026-01-16": 44,
       "2026-01-15": 17,
-      "2026-01-14": 28
+      "2026-01-14": 28,
+      "2026-01-11": 27
     }
   },
   {
@@ -1697,17 +1696,16 @@
     "slug": "mpr",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.53%",
     "time": 3211,
     "timeDay": 1790,
     "timeWeek": 1828,
     "timeMonth": 1676,
     "timeYear": 3104,
     "dailyMinutesDown": {
-      "2026-05-14": 10,
       "2026-05-10": 16,
       "2026-05-06": 30,
       "2026-05-03": 23,

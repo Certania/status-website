@@ -167,14 +167,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "65.85%",
-    "uptimeWeek": "78.29%",
-    "uptimeMonth": "92.93%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.32%",
+    "uptimeDay": "63.84%",
+    "uptimeWeek": "78.18%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "98.32%",
     "time": 1137,
     "timeDay": 861,
-    "timeWeek": 820,
+    "timeWeek": 828,
     "timeMonth": 945,
     "timeYear": 1137,
     "dailyMinutesDown": {
@@ -215,7 +215,7 @@
       "2026-06-06": 69,
       "2026-06-07": 571,
       "2026-06-08": 485,
-      "2026-06-09": 7
+      "2026-06-09": 36
     }
   },
   {
@@ -477,7 +477,7 @@
       "2026-04-04": 44,
       "2026-04-07": 29,
       "2026-05-05": 27,
-      "2026-06-09": 11,
+      "2026-06-09": 40,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -798,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.institut-nuss.de.ico",
     "slug": "institut-dr-nuss",
     "status": "down",
-    "uptime": "90.99%",
+    "uptime": "90.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -837,7 +837,7 @@
       "2026-04-12": 97,
       "2026-04-13": 70,
       "2026-04-15": 723,
-      "2026-06-09": 11,
+      "2026-06-09": 40,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1078,10 +1078,10 @@
     "slug": "sgi-compliance",
     "status": "down",
     "uptime": "86.69%",
-    "uptimeDay": "76.69%",
-    "uptimeWeek": "87.13%",
+    "uptimeDay": "74.67%",
+    "uptimeWeek": "86.84%",
     "uptimeMonth": "38.87%",
-    "uptimeYear": "77.05%",
+    "uptimeYear": "77.04%",
     "time": 4714,
     "timeDay": 2384,
     "timeWeek": 2815,
@@ -1229,7 +1229,7 @@
       "2026-06-05": 144,
       "2026-06-06": 218,
       "2026-06-08": 329,
-      "2026-06-09": 7
+      "2026-06-09": 36
     }
   },
   {
@@ -1240,7 +1240,7 @@
     "status": "up",
     "uptime": "99.40%",
     "uptimeDay": "70.78%",
-    "uptimeWeek": "73.89%",
+    "uptimeWeek": "74.02%",
     "uptimeMonth": "87.99%",
     "uptimeYear": "98.97%",
     "time": 1567,
@@ -1534,10 +1534,10 @@
     "slug": "cmc-sud",
     "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "43.88%",
+    "uptimeDay": "41.84%",
     "uptimeWeek": "39.21%",
-    "uptimeMonth": "63.75%",
-    "uptimeYear": "96.98%",
+    "uptimeMonth": "63.69%",
+    "uptimeYear": "96.97%",
     "time": 4166,
     "timeDay": 1072,
     "timeWeek": 10900,
@@ -1568,7 +1568,7 @@
       "2026-06-06": 1027,
       "2026-06-07": 1004,
       "2026-06-08": 796,
-      "2026-06-09": 12
+      "2026-06-09": 41
     }
   },
   {
@@ -1604,14 +1604,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "66.67%",
-    "uptimeWeek": "80.24%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "98.41%",
+    "uptime": "98.40%",
+    "uptimeDay": "64.64%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "98.40%",
     "time": 654,
     "timeDay": 436,
-    "timeWeek": 537,
+    "timeWeek": 541,
     "timeMonth": 586,
     "timeYear": 654,
     "dailyMinutesDown": {
@@ -1653,7 +1653,7 @@
       "2026-06-06": 45,
       "2026-06-07": 529,
       "2026-06-08": 478,
-      "2026-06-09": 2
+      "2026-06-09": 31
     }
   },
   {
@@ -1687,13 +1687,13 @@
     "slug": "gwp",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "66.75%",
-    "uptimeWeek": "80.29%",
-    "uptimeMonth": "93.80%",
+    "uptimeDay": "64.71%",
+    "uptimeWeek": "80.08%",
+    "uptimeMonth": "93.73%",
     "uptimeYear": "99.40%",
     "time": 2091,
     "timeDay": 1258,
-    "timeWeek": 1715,
+    "timeWeek": 1729,
     "timeMonth": 2011,
     "timeYear": 2197,
     "dailyMinutesDown": {
@@ -1721,7 +1721,7 @@
       "2026-06-06": 45,
       "2026-06-07": 526,
       "2026-06-08": 477,
-      "2026-06-09": 2
+      "2026-06-09": 31
     }
   },
   {

@@ -163,15 +163,15 @@
     "url": "https://bioarray.es/",
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
-    "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "84.90%",
-    "uptimeWeek": "77.46%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "98.18%",
+    "status": "up",
+    "uptime": "98.17%",
+    "uptimeDay": "81.95%",
+    "uptimeWeek": "77.04%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "98.17%",
     "time": 1127,
-    "timeDay": 808,
-    "timeWeek": 833,
+    "timeDay": 821,
+    "timeWeek": 834,
     "timeMonth": 921,
     "timeYear": 1127,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
       "2026-06-08": 485,
       "2026-06-09": 584,
       "2026-06-10": 211,
-      "2026-06-11": 24
+      "2026-06-11": 66
     }
   },
   {
@@ -439,11 +439,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/socratec-pharma.de.ico",
     "slug": "socratec-r-and-d",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.22%",
     "time": 1783,
     "timeDay": 1540,
     "timeWeek": 1355,
@@ -473,7 +473,7 @@
       "2026-04-04": 44,
       "2026-04-07": 29,
       "2026-05-05": 27,
-      "2026-06-11": 46,
+      "2026-06-11": 99,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -627,10 +627,10 @@
     "slug": "biotesys",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "97.78%",
+    "uptimeDay": "85.90%",
+    "uptimeWeek": "88.43%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "97.77%",
     "time": 2721,
     "timeDay": 1622,
     "timeWeek": 4416,
@@ -671,7 +671,7 @@
       "2026-06-08": 99,
       "2026-06-09": 214,
       "2026-06-10": 122,
-      "2026-06-11": 46
+      "2026-06-11": 99
     }
   },
   {
@@ -807,8 +807,8 @@
     "status": "up",
     "uptime": "90.92%",
     "uptimeDay": "93.47%",
-    "uptimeWeek": "20.51%",
-    "uptimeMonth": "2.81%",
+    "uptimeWeek": "21.04%",
+    "uptimeMonth": "2.93%",
     "uptimeYear": "84.36%",
     "time": 4193,
     "timeDay": 2251,
@@ -1088,7 +1088,7 @@
     "uptime": "86.68%",
     "uptimeDay": "68.69%",
     "uptimeWeek": "82.97%",
-    "uptimeMonth": "43.84%",
+    "uptimeMonth": "43.96%",
     "uptimeYear": "76.96%",
     "time": 4626,
     "timeDay": 3068,
@@ -1241,11 +1241,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.triskelion.nl.ico",
     "slug": "triskelion",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "74.56%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "86.83%",
-    "uptimeYear": "98.89%",
+    "uptime": "99.35%",
+    "uptimeDay": "70.85%",
+    "uptimeWeek": "72.65%",
+    "uptimeMonth": "86.71%",
+    "uptimeYear": "98.88%",
     "time": 1580,
     "timeDay": 1507,
     "timeWeek": 1413,
@@ -1284,7 +1284,7 @@
       "2026-06-08": 421,
       "2026-06-09": 393,
       "2026-06-10": 338,
-      "2026-06-11": 46
+      "2026-06-11": 100
     }
   },
   {
@@ -1544,10 +1544,10 @@
     "slug": "cmc-sud",
     "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "51.60%",
+    "uptimeDay": "48.60%",
     "uptimeWeek": "42.17%",
-    "uptimeMonth": "60.57%",
-    "uptimeYear": "96.71%",
+    "uptimeMonth": "60.45%",
+    "uptimeYear": "96.70%",
     "time": 4142,
     "timeDay": 1192,
     "timeWeek": 3551,
@@ -1577,7 +1577,7 @@
       "2026-06-08": 796,
       "2026-06-09": 995,
       "2026-06-10": 668,
-      "2026-06-11": 47
+      "2026-06-11": 100
     }
   },
   {
@@ -1612,15 +1612,15 @@
     "url": "https://www.clarkebanks.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "92.28%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "83.55%",
+    "uptimeWeek": "79.80%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "98.29%",
     "time": 651,
-    "timeDay": 581,
-    "timeWeek": 545,
+    "timeDay": 568,
+    "timeWeek": 544,
     "timeMonth": 577,
     "timeYear": 651,
     "dailyMinutesDown": {
@@ -1659,7 +1659,7 @@
       "2026-06-08": 478,
       "2026-06-09": 474,
       "2026-06-10": 178,
-      "2026-06-11": 25
+      "2026-06-11": 77
     }
   },
   {
@@ -1691,15 +1691,15 @@
     "url": "https://gwp.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/gwp.eu.ico",
     "slug": "gwp",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "87.21%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.27%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "79.86%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "99.26%",
     "time": 2082,
-    "timeDay": 1468,
-    "timeWeek": 1718,
+    "timeDay": 1533,
+    "timeWeek": 1722,
     "timeMonth": 1936,
     "timeYear": 2173,
     "dailyMinutesDown": {
@@ -1728,7 +1728,7 @@
       "2026-06-08": 477,
       "2026-06-09": 470,
       "2026-06-10": 178,
-      "2026-06-11": 25
+      "2026-06-11": 77
     }
   },
   {

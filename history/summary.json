@@ -164,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "down",
-    "uptime": "98.19%",
-    "uptimeDay": "85.76%",
-    "uptimeWeek": "77.58%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "98.19%",
+    "uptime": "98.18%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "77.46%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "98.18%",
     "time": 1127,
     "timeDay": 808,
     "timeWeek": 833,
@@ -211,7 +211,7 @@
       "2026-06-08": 485,
       "2026-06-09": 584,
       "2026-06-10": 211,
-      "2026-06-11": 11
+      "2026-06-11": 24
     }
   },
   {
@@ -473,7 +473,7 @@
       "2026-04-04": 44,
       "2026-04-07": 29,
       "2026-05-05": 27,
-      "2026-06-11": 33,
+      "2026-06-11": 46,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -627,9 +627,9 @@
     "slug": "biotesys",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "89.08%",
-    "uptimeMonth": "96.75%",
+    "uptimeDay": "89.60%",
+    "uptimeWeek": "88.96%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "97.78%",
     "time": 2721,
     "timeDay": 1622,
@@ -671,7 +671,7 @@
       "2026-06-08": 99,
       "2026-06-09": 214,
       "2026-06-10": 122,
-      "2026-06-11": 34
+      "2026-06-11": 46
     }
   },
   {
@@ -807,8 +807,8 @@
     "status": "up",
     "uptime": "90.92%",
     "uptimeDay": "93.47%",
-    "uptimeWeek": "20.39%",
-    "uptimeMonth": "2.78%",
+    "uptimeWeek": "20.51%",
+    "uptimeMonth": "2.81%",
     "uptimeYear": "84.36%",
     "time": 4193,
     "timeDay": 2251,
@@ -1088,7 +1088,7 @@
     "uptime": "86.68%",
     "uptimeDay": "68.69%",
     "uptimeWeek": "82.97%",
-    "uptimeMonth": "43.81%",
+    "uptimeMonth": "43.84%",
     "uptimeYear": "76.96%",
     "time": 4626,
     "timeDay": 3068,
@@ -1242,9 +1242,9 @@
     "slug": "triskelion",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "75.41%",
-    "uptimeWeek": "73.30%",
-    "uptimeMonth": "86.86%",
+    "uptimeDay": "74.56%",
+    "uptimeWeek": "73.18%",
+    "uptimeMonth": "86.83%",
     "uptimeYear": "98.89%",
     "time": 1580,
     "timeDay": 1507,
@@ -1284,7 +1284,7 @@
       "2026-06-08": 421,
       "2026-06-09": 393,
       "2026-06-10": 338,
-      "2026-06-11": 34
+      "2026-06-11": 46
     }
   },
   {
@@ -1544,10 +1544,10 @@
     "slug": "cmc-sud",
     "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "52.45%",
+    "uptimeDay": "51.60%",
     "uptimeWeek": "42.17%",
-    "uptimeMonth": "60.60%",
-    "uptimeYear": "96.72%",
+    "uptimeMonth": "60.57%",
+    "uptimeYear": "96.71%",
     "time": 4142,
     "timeDay": 1192,
     "timeWeek": 3551,
@@ -1577,7 +1577,7 @@
       "2026-06-08": 796,
       "2026-06-09": 995,
       "2026-06-10": 668,
-      "2026-06-11": 34
+      "2026-06-11": 47
     }
   },
   {
@@ -1614,9 +1614,9 @@
     "slug": "clarke-banks",
     "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "88.00%",
-    "uptimeWeek": "80.44%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "80.31%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "98.31%",
     "time": 651,
     "timeDay": 581,
@@ -1659,7 +1659,7 @@
       "2026-06-08": 478,
       "2026-06-09": 474,
       "2026-06-10": 178,
-      "2026-06-11": 13
+      "2026-06-11": 25
     }
   },
   {
@@ -1693,10 +1693,10 @@
     "slug": "gwp",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "80.49%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "87.21%",
+    "uptimeWeek": "80.37%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "99.27%",
     "time": 2082,
     "timeDay": 1468,
     "timeWeek": 1718,
@@ -1728,7 +1728,7 @@
       "2026-06-08": 477,
       "2026-06-09": 470,
       "2026-06-10": 178,
-      "2026-06-11": 13
+      "2026-06-11": 25
     }
   },
   {

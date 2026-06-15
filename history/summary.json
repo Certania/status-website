@@ -6,10 +6,10 @@
     "slug": "certania",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "69.30%",
-    "uptimeWeek": "84.66%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "84.33%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "99.04%",
     "time": 869,
     "timeDay": 703,
     "timeWeek": 761,
@@ -71,7 +71,7 @@
       "2026-06-12": 81,
       "2026-06-13": 207,
       "2026-06-14": 429,
-      "2026-06-15": 12
+      "2026-06-15": 45
     }
   },
   {
@@ -81,10 +81,10 @@
     "slug": "alphalytik",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "69.50%",
-    "uptimeWeek": "84.74%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "67.20%",
+    "uptimeWeek": "84.41%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "99.04%",
     "time": 3933,
     "timeDay": 1880,
     "timeWeek": 2468,
@@ -148,7 +148,7 @@
       "2026-06-12": 80,
       "2026-06-13": 206,
       "2026-06-14": 429,
-      "2026-06-15": 12
+      "2026-06-15": 45
     }
   },
   {
@@ -157,11 +157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioarray.es.ico",
     "slug": "bioarray",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "78.28%",
-    "uptimeWeek": "78.16%",
-    "uptimeMonth": "89.20%",
-    "uptimeYear": "98.04%",
+    "uptime": "98.03%",
+    "uptimeDay": "75.98%",
+    "uptimeWeek": "77.84%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "98.03%",
     "time": 1120,
     "timeDay": 742,
     "timeWeek": 860,
@@ -206,7 +206,7 @@
       "2026-06-12": 213,
       "2026-06-13": 35,
       "2026-06-14": 300,
-      "2026-06-15": 12
+      "2026-06-15": 45
     }
   },
   {
@@ -238,10 +238,10 @@
     "slug": "gbd",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "69.75%",
-    "uptimeWeek": "84.85%",
-    "uptimeMonth": "94.24%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "67.45%",
+    "uptimeWeek": "84.52%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.01%",
     "time": 1975,
     "timeDay": 1839,
     "timeWeek": 2385,
@@ -299,7 +299,7 @@
       "2026-06-12": 79,
       "2026-06-13": 205,
       "2026-06-14": 423,
-      "2026-06-15": 12
+      "2026-06-15": 45
     }
   },
   {
@@ -307,11 +307,11 @@
     "url": "https://www.groupeicare.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.groupeicare.com.ico",
     "slug": "groupe-icare",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "96.58%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "97.62%",
     "time": 3793,
     "timeDay": 3269,
@@ -351,7 +351,8 @@
       "2026-06-11": 91,
       "2026-06-12": 49,
       "2026-06-13": 98,
-      "2026-06-14": 55
+      "2026-06-14": 55,
+      "2026-06-15": 20
     }
   },
   {
@@ -434,11 +435,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/socratec-pharma.de.ico",
     "slug": "socratec-r-and-d",
     "status": "up",
-    "uptime": "93.74%",
+    "uptime": "93.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.14%",
+    "uptimeYear": "89.13%",
     "time": 1782,
     "timeDay": 1172,
     "timeWeek": 1429,
@@ -468,7 +469,7 @@
       "2026-04-04": 44,
       "2026-04-07": 29,
       "2026-05-05": 27,
-      "2026-06-15": 12,
+      "2026-06-15": 46,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -587,11 +588,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biotec-gmbh.com.ico",
     "slug": "biotec",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "70.30%",
-    "uptimeWeek": "84.68%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.65%",
+    "uptimeDay": "68.00%",
+    "uptimeWeek": "84.36%",
+    "uptimeMonth": "94.25%",
+    "uptimeYear": "99.42%",
     "time": 2303,
     "timeDay": 1758,
     "timeWeek": 2823,
@@ -621,7 +622,7 @@
       "2026-06-12": 74,
       "2026-06-13": 204,
       "2026-06-14": 416,
-      "2026-06-15": 13
+      "2026-06-15": 46
     }
   },
   {
@@ -631,10 +632,10 @@
     "slug": "biotesys",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "70.52%",
-    "uptimeWeek": "80.78%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "97.50%",
+    "uptimeDay": "68.22%",
+    "uptimeWeek": "80.46%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "97.49%",
     "time": 2634,
     "timeDay": 1686,
     "timeWeek": 2094,
@@ -678,7 +679,7 @@
       "2026-06-12": 72,
       "2026-06-13": 202,
       "2026-06-14": 412,
-      "2026-06-15": 13
+      "2026-06-15": 46
     }
   },
   {
@@ -752,9 +753,9 @@
     "slug": "fsi-health-and-safety",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "97.12%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "99.59%",
     "time": 1069,
     "timeDay": 773,
@@ -807,7 +808,7 @@
       "2026-06-10": 157,
       "2026-06-11": 1,
       "2026-06-12": 87,
-      "2026-06-14": 36
+      "2026-06-14": 24
     }
   },
   {
@@ -817,10 +818,10 @@
     "slug": "institut-dr-nuss",
     "status": "down",
     "uptime": "90.86%",
-    "uptimeDay": "71.50%",
+    "uptimeDay": "69.19%",
     "uptimeWeek": "66.87%",
     "uptimeMonth": "13.48%",
-    "uptimeYear": "84.16%",
+    "uptimeYear": "84.15%",
     "time": 4022,
     "timeDay": 1897,
     "timeWeek": 3086,
@@ -915,7 +916,7 @@
       "2026-06-12": 72,
       "2026-06-13": 201,
       "2026-06-14": 397,
-      "2026-06-15": 13
+      "2026-06-15": 46
     }
   },
   {
@@ -1020,11 +1021,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.supplychainintegrity.eu.ico",
     "slug": "ras-sci",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "71.67%",
-    "uptimeWeek": "85.44%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.37%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "99.04%",
     "time": 922,
     "timeDay": 1959,
     "timeWeek": 2864,
@@ -1089,7 +1090,7 @@
       "2026-06-12": 71,
       "2026-06-13": 199,
       "2026-06-14": 395,
-      "2026-06-15": 13
+      "2026-06-15": 46
     }
   },
   {
@@ -1097,16 +1098,16 @@
     "url": "https://sgicompliance.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sgicompliance.com.ico",
     "slug": "sgi-compliance",
-    "status": "down",
+    "status": "up",
     "uptime": "86.95%",
-    "uptimeDay": "75.33%",
-    "uptimeWeek": "80.41%",
-    "uptimeMonth": "54.86%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "80.26%",
+    "uptimeMonth": "54.90%",
     "uptimeYear": "77.29%",
     "time": 4449,
-    "timeDay": 2372,
-    "timeWeek": 2739,
-    "timeMonth": 3299,
+    "timeDay": 2477,
+    "timeWeek": 2761,
+    "timeMonth": 3305,
     "timeYear": 4169,
     "dailyMinutesDown": {
       "2026-01-30": 102,
@@ -1236,7 +1237,7 @@
       "2026-06-12": 71,
       "2026-06-13": 130,
       "2026-06-14": 343,
-      "2026-06-15": 13
+      "2026-06-15": 28
     }
   },
   {
@@ -1246,10 +1247,10 @@
     "slug": "triskelion",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "69.90%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "85.01%",
-    "uptimeYear": "98.75%",
+    "uptimeDay": "67.58%",
+    "uptimeWeek": "74.31%",
+    "uptimeMonth": "84.94%",
+    "uptimeYear": "98.74%",
     "time": 1609,
     "timeDay": 1398,
     "timeWeek": 1453,
@@ -1286,7 +1287,7 @@
       "2026-06-12": 89,
       "2026-06-13": 327,
       "2026-06-14": 426,
-      "2026-06-15": 9
+      "2026-06-15": 42
     }
   },
   {
@@ -1396,9 +1397,9 @@
     "slug": "certuria",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "73.90%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "94.96%",
+    "uptimeDay": "71.58%",
+    "uptimeWeek": "86.16%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "99.44%",
     "time": 2634,
     "timeDay": 1866,
@@ -1446,7 +1447,7 @@
       "2026-06-12": 50,
       "2026-06-13": 184,
       "2026-06-14": 369,
-      "2026-06-15": 8
+      "2026-06-15": 42
     }
   },
   {
@@ -1550,10 +1551,10 @@
     "slug": "cmc-sud",
     "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "33.05%",
-    "uptimeWeek": "46.57%",
-    "uptimeMonth": "56.04%",
-    "uptimeYear": "96.34%",
+    "uptimeDay": "30.73%",
+    "uptimeWeek": "46.24%",
+    "uptimeMonth": "55.96%",
+    "uptimeYear": "96.33%",
     "time": 4123,
     "timeDay": 1251,
     "timeWeek": 1306,
@@ -1583,7 +1584,7 @@
       "2026-06-12": 525,
       "2026-06-13": 804,
       "2026-06-14": 952,
-      "2026-06-15": 13
+      "2026-06-15": 47
     }
   },
   {
@@ -1619,11 +1620,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clarkebanks.com.ico",
     "slug": "clarke-banks",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "82.51%",
-    "uptimeWeek": "80.63%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "98.15%",
+    "uptime": "98.14%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "80.30%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "98.14%",
     "time": 650,
     "timeDay": 577,
     "timeWeek": 560,
@@ -1667,7 +1668,7 @@
       "2026-06-12": 182,
       "2026-06-14": 250,
       "2026-06-13": 25,
-      "2026-06-15": 3
+      "2026-06-15": 37
     }
   },
   {
@@ -1676,11 +1677,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fiatec.com.ico",
     "slug": "fiatec",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "74.44%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.26%",
+    "uptimeDay": "72.11%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.78%",
     "time": 1078,
     "timeDay": 1540,
     "timeWeek": 1508,
@@ -1696,7 +1697,7 @@
       "2026-06-12": 50,
       "2026-06-13": 179,
       "2026-06-14": 365,
-      "2026-06-15": 3
+      "2026-06-15": 36
     }
   },
   {
@@ -1704,16 +1705,16 @@
     "url": "https://gwp.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/gwp.eu.ico",
     "slug": "gwp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "80.70%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "99.13%",
-    "time": 2077,
-    "timeDay": 1711,
-    "timeWeek": 1587,
-    "timeMonth": 1835,
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "80.44%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "99.12%",
+    "time": 2079,
+    "timeDay": 1753,
+    "timeWeek": 1597,
+    "timeMonth": 1837,
     "timeYear": 2145,
     "dailyMinutesDown": {
       "2025-07-17": 181,
@@ -1745,7 +1746,7 @@
       "2026-06-12": 180,
       "2026-06-14": 247,
       "2026-06-13": 25,
-      "2026-06-15": 3
+      "2026-06-15": 29
     }
   },
   {
@@ -1754,11 +1755,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/koetter-consulting.com.ico",
     "slug": "k-oe-tter",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "74.66%",
-    "uptimeWeek": "86.92%",
-    "uptimeMonth": "94.88%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.47%",
+    "uptimeDay": "72.33%",
+    "uptimeWeek": "86.59%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "99.08%",
     "time": 809,
     "timeDay": 599,
     "timeWeek": 594,
@@ -1824,7 +1825,7 @@
       "2026-06-12": 49,
       "2026-06-13": 177,
       "2026-06-14": 363,
-      "2026-06-15": 2
+      "2026-06-15": 36
     }
   },
   {
@@ -1834,10 +1835,10 @@
     "slug": "mpr",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "74.84%",
-    "uptimeWeek": "87.00%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "72.51%",
+    "uptimeWeek": "86.67%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "99.12%",
     "time": 3213,
     "timeDay": 1719,
     "timeWeek": 1956,
@@ -1900,7 +1901,7 @@
       "2026-06-12": 48,
       "2026-06-13": 176,
       "2026-06-14": 361,
-      "2026-06-15": 2
+      "2026-06-15": 35
     }
   },
   {
